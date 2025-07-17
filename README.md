@@ -8,9 +8,9 @@ Garantir a qualidade funcional, regressiva e de usabilidade do sistema através 
 
 ## 🧪 Atividades de QA realizadas
 
-- Planejamento e execução de testes manuais (funcionais, regressivos, de usabilidade)
+- Planejamento e execução de testes manuais e automatizados
 - Criação de cenários e casos de teste com base nos requisitos definidos
-- Registro e acompanhamento de bugs via Trello
+- Registro e acompanhamento de bugs via Jira
 - Automação de testes com Jest (unitários e E2E) e Supertest (API)
 - Validação de dados no backend e banco de dados
 - Testes de segurança (token JWT, validação de sessão, hash de senhas)
